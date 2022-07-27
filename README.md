@@ -1,8 +1,6 @@
 # Todolist
 
-
-
-A todolist web app
+A todolist web app where you can mark the work which is done!
 ### ⚒️ Languages / Tools
  <table>
 	 <tbody>
@@ -39,11 +37,11 @@ Before installation, please make sure you have already installed the following t
 
 ## 🛠️ Installation Steps
 
-1. [Fork](https://github.com/ayushlohmod/drumkit/fork) the project. Click on the <a href="https://github.com/ayushlohmod/drumkit/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="15" width="15"></a> icon in the top right to get started
+1. [Fork](https://github.com/ayushlohmod/todolist/fork) the project. Click on the <a href="https://github.com/ayushlohmod/todolist/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="15" width="15"></a> icon in the top right to get started
 2. Clone the project, you can use the following command:
 
 ```bash
-git clone https://github.com/<your-github-username>/trick-generator
+git clone https://github.com/<your-github-username>/todolist
 ```
 
 3. Navigate to the project directory
